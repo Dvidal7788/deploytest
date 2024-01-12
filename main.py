@@ -1,4 +1,4 @@
-def main()
+def main():
   print('Deploy Test Successful\n')
 
 if __name__ == "__main__":
